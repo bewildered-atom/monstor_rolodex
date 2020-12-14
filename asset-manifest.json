@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/monsetrs-rolodex/static/css/main.eded6dd9.chunk.css",
+    "main.js": "/monsetrs-rolodex/static/js/main.fa3600a3.chunk.js",
+    "main.js.map": "/monsetrs-rolodex/static/js/main.fa3600a3.chunk.js.map",
+    "runtime-main.js": "/monsetrs-rolodex/static/js/runtime-main.406075f4.js",
+    "runtime-main.js.map": "/monsetrs-rolodex/static/js/runtime-main.406075f4.js.map",
+    "static/js/2.001bb2de.chunk.js": "/monsetrs-rolodex/static/js/2.001bb2de.chunk.js",
+    "static/js/2.001bb2de.chunk.js.map": "/monsetrs-rolodex/static/js/2.001bb2de.chunk.js.map",
+    "index.html": "/monsetrs-rolodex/index.html",
+    "static/css/main.eded6dd9.chunk.css.map": "/monsetrs-rolodex/static/css/main.eded6dd9.chunk.css.map",
+    "static/js/2.001bb2de.chunk.js.LICENSE.txt": "/monsetrs-rolodex/static/js/2.001bb2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406075f4.js",
+    "static/js/2.001bb2de.chunk.js",
+    "static/css/main.eded6dd9.chunk.css",
+    "static/js/main.fa3600a3.chunk.js"
+  ]
+}
